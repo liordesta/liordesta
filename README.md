@@ -2,7 +2,7 @@
 
 # Hello, I am <a href="https://linkedin.com/in/liordesta">Lior</a>! <img src="https://raw.githubusercontent.com/liordesta/liordesta/master/wave.gif" width="30px">
 
-I'm a **Front-End Engineer** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> With 2 years of experience. I'm from Tel-Aviv and I'm Passionate about learning and working with new tech! I love building interesting and amazing products that serve a great deal of purpose. <br/>
+I'm a **Front-End Engineer** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> With 3+ years of experience. I'm from Tel-Aviv and I'm Passionate about learning and working with new tech! I love building interesting and amazing products that serve a great deal of purpose. <br/>
 
 #### Find me at 📬
 
